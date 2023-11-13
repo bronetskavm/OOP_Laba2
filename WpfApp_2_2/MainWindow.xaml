@@ -1,0 +1,20 @@
+﻿<Window x:Class="WpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Квадратне рівняння" Height="300" Width="400">
+    <Grid>
+        <StackPanel Margin="20">
+            <TextBlock Text="Введіть значення a:"/>
+            <TextBox Name="aTextBox"/>
+            <TextBlock Text="Введіть значення b:"/>
+            <TextBox Name="bTextBox"/>
+            <TextBlock Text="Введіть значення c:"/>
+            <TextBox Name="cTextBox"/>
+            <Button Content="Обчислити" Click="CalculateButton_Click"/>
+
+            <TextBlock Name="discriminantText" Visibility="Collapsed"/>
+            <TextBlock Name="solutionText1" Visibility="Collapsed"/>
+            <TextBlock Name="solutionText2" Visibility="Collapsed"/>
+        </StackPanel>
+    </Grid>
+</Window>

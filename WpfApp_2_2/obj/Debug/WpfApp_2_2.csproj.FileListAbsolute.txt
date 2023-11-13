@@ -1,0 +1,15 @@
+C:\Projects\WpfApp_2_2\bin\Debug\WpfApp_2_2.exe.config
+C:\Projects\WpfApp_2_2\bin\Debug\WpfApp_2_2.exe
+C:\Projects\WpfApp_2_2\bin\Debug\WpfApp_2_2.pdb
+C:\Projects\WpfApp_2_2\obj\Debug\WpfApp_2_2.csproj.AssemblyReference.cache
+C:\Projects\WpfApp_2_2\obj\Debug\WpfApp_2_2.csproj.SuggestedBindingRedirects.cache
+C:\Projects\WpfApp_2_2\obj\Debug\MainWindow.baml
+C:\Projects\WpfApp_2_2\obj\Debug\MainWindow.g.cs
+C:\Projects\WpfApp_2_2\obj\Debug\App.g.cs
+C:\Projects\WpfApp_2_2\obj\Debug\WpfApp_2_2_MarkupCompile.cache
+C:\Projects\WpfApp_2_2\obj\Debug\WpfApp_2_2.g.resources
+C:\Projects\WpfApp_2_2\obj\Debug\WpfApp_2_2.Properties.Resources.resources
+C:\Projects\WpfApp_2_2\obj\Debug\WpfApp_2_2.csproj.GenerateResource.cache
+C:\Projects\WpfApp_2_2\obj\Debug\WpfApp_2_2.csproj.CoreCompileInputs.cache
+C:\Projects\WpfApp_2_2\obj\Debug\WpfApp_2_2.exe
+C:\Projects\WpfApp_2_2\obj\Debug\WpfApp_2_2.pdb
